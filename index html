@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> Quiz </title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class = 'start_contanier'>
+<h3 class = 'container_h3'> </h3>
+    <div class = "start_btn">начать тест</div>
+    </div>
+<div class="container main">
+    <div class="question">2 + 2</div>
+    <div class="ans-row">
+        <div class="answer">4</div>
+        <div class="answer">6</div>
+        <div class="answer">10</div>
+        <div class="answer">12</div>
+        <div class="answer">3</div>
+    </div>
+</div>
+<script
+src='https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js' ></script>
+<script src="script.js"></script>
+</body>
+</html>
